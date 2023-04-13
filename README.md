@@ -3,7 +3,7 @@
 ---
 
 I am a computer science student at Ghent University (UGent), Belgium 🇧🇪. 
-This is my [portfolio](https://jarneclauw.github.io), you should take a look at it! 
+This is my [portfolio](https://jarneclauw.vercel.app), you should take a look at it! 
 
 - Interested in 💻 computer science
 - 🌱 I’m currently learning computer science
